@@ -1,16 +1,26 @@
-## Hi there 👋
+#<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
-<!--
-**Raankh/Raankh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Raankh</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/raankh">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  <a href="mailto:akinsowon.olasunkanmi@yahoo.com">
+    <img src="https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=purple" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About
+
+I am focused on building **reliable, scalable, and maintainable systems**. I value clean architecture, thoughtful design, and continuous improvement through hands-on development and collaboration.
+- Interested in **AI, Cloud-computing, Cyber-Security and Data Science**
+>
+
+<p align="center">
+  <i>Focused on quality, clarity, and long-term impact.</i>
+</p>
+
